@@ -29,7 +29,8 @@ Here are some highlighted projects you'll find in this repository:
 ### Music sentiment analysis
 
 **Description:** Using computational techniques to determine the emotional sentiment
-conveyed by a piece of music
+conveyed by a piece of music.
+
 **Technologies:** This Music Sentiment Analysis project was developed using a variety of technologies to achieve its goals. The key technologies and tools employed include:
 
 - **Python**: A versatile programming language used for data processing, analysis, and visualization.
@@ -42,7 +43,7 @@ conveyed by a piece of music
 
 These technologies were carefully chosen to ensure efficient data processing, accurate sentiment analysis, and clear visualization of the results in the context of music sentiment analysis.
 
-Link: Project Name 1 Repository
+**Link:** Project Name 1 Repository
 
 #### Intelligent Video Surveillance
 
