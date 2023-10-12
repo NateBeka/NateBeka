@@ -26,11 +26,11 @@ I am committed to continuous learning and staying updated with the latest techno
 ## Projects
 Here are some highlighted projects you'll find in this repository:
 
-#### Music sentiment analysis
+### Music sentiment analysis
 
-Description: Using computational techniques to determine the emotional sentiment
+**Description:** Using computational techniques to determine the emotional sentiment
 conveyed by a piece of music
-Technologies: This Music Sentiment Analysis project was developed using a variety of technologies to achieve its goals. The key technologies and tools employed include:
+**Technologies:** This Music Sentiment Analysis project was developed using a variety of technologies to achieve its goals. The key technologies and tools employed include:
 
 - **Python**: A versatile programming language used for data processing, analysis, and visualization.
 - **Librosa**: A Python package for music and audio analysis, providing essential tools for feature extraction and signal processing in this project.
