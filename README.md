@@ -43,18 +43,11 @@ conveyed by a piece of music.
 
 These technologies were carefully chosen to ensure efficient data processing, accurate sentiment analysis, and clear visualization of the results in the context of music sentiment analysis.
 
-**Link:** Project Name 1 Repository
 
 #### Intelligent Video Surveillance
 
 Description: A brief overview of the project and its purpose.
 Technologies: List of technologies used in the project.
-Link: Project Name 2 Repository
-#### Project Name 3
-
-Description: A brief overview of the project and its purpose.
-Technologies: List of technologies used in the project.
-Link: Project Name 3 Repository
 Feel free to explore these projects, provide feedback, and collaborate on any of them.
 
 ## Contact
